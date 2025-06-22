@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jamal Belkacemi</title>
+        <link>https://jamalbelkacemi.github.io/</link>
+        <description>Jamal Belkacemi Blog Personal</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><copyright>jamalbelkacemi</copyright><lastBuildDate>Sun, 22 Jun 2025 15:19:16 &#43;0200</lastBuildDate>
+            <atom:link href="https://jamalbelkacemi.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test</title>
+    <link>https://jamalbelkacemi.github.io/posts/test/</link>
+    <pubDate>Sun, 22 Jun 2025 15:19:16 &#43;0200</pubDate>
+    <author>Jamal Belkacemi</author>
+    <guid>https://jamalbelkacemi.github.io/posts/test/</guid>
+    <description><![CDATA[<h1 id="hola-mundo">Hola Mundo</h1>]]></description>
+</item>
+</channel>
+</rss>
